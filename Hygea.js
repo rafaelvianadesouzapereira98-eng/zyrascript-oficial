@@ -7,8 +7,9 @@ function executarNoTerminal() {
         console.log(`ZyraScript Versão ${VERSAO_HYGEA}`);
         return;
     }
-    console.log("Bem-vindo ao Zyra CLI. Use '--versao' ou '-v' para ver a versão.");
+    console.log("Bem-vindo ao hygea CLI. Use '--versao' ou '-v' para ver a versão.");
 }
 
 
 executarNoTerminal();
+
